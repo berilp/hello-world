@@ -1,4 +1,7 @@
 # hello-world
 Beril's Hello World Repo
 
-Where does a readme-edits commit go when I've modified master?
+
+
+Hi there! My name is Beril. I'm learning HTML, Python, Atom and CSS. 
+I also like math and music!
